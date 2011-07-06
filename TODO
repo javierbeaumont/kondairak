@@ -1,0 +1,10 @@
+Version 0.0
+===========
+* ✘ Web site basic:
+  * ✗ Configuration file.
+  * ✗ Login page.
+  * ✗ Default template: XHTML 1.1 and CSS 2.1. W3C standards.
+  * ✗ Project page and source code links.
+* ✘ Database:
+  * ✗ MySQL Support.
+  * ✗ SQL file.
